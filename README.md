@@ -1,5 +1,6 @@
 # Description
-A simple Telegram bot showing crypto asset's price and network fees.
+A simple Telegram bot that shows crypto assets' prices and network fees.
+Test it here: https://t.me/CryptoPriceTickerBot
 
 Commands: 
 ```/price , /fee , /currencies```
